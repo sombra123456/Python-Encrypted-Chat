@@ -1,2 +1,2 @@
 # Python-encrypted-chat-
-This is a chat that encrypts the message before being sent
+This is a chat that encrypts the message before being sent, with choosen password
