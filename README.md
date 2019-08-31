@@ -1,5 +1,6 @@
-# Python-Encrypted-Chat-
+# Python-Encrypted-Chat
 This is a chat that encrypts the message before being sent, with choosen password
+
 
 
 *YOU CAN ONLY CONNECT 1 CLIENT TO THE SERVER*
